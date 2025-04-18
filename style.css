@@ -41,10 +41,6 @@ nav ul li a {
     transition: color 0.3s;
 }
 
-nav ul li a:hover {
-    color: #34495e;
-}
-
 header {
     padding: 20px;
     color: #ffffff;
@@ -74,6 +70,15 @@ h4 {
     font-size: 1.2rem;
     margin-top: -15px;
     color: #fff;
+}
+
+.damasss {
+    color: #978800;
+}
+
+.damassss {
+    color: #978800;
+    margin-top: -20px;
 }
 
 p {
